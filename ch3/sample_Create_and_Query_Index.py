@@ -5,7 +5,7 @@ nodes = [
   TextNode(
     text="Lionel Messi is a football player from Argentina."
     ),
-  TextNode(
+  TextNode(                                                                                                                                                                                                                                                                                                                                     
     text="He has won the Ballon d'Or trophy 7 times."
     ),
   TextNode(text="Lionel Messi's hometown is Rosario."),
